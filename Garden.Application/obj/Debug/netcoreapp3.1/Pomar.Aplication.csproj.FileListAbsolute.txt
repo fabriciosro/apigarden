@@ -1,0 +1,9 @@
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Aplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Aplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Aplication\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Aplication\obj\Debug\netcoreapp3.1\Pomar.Aplication.csprojAssemblyReference.cache
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Aplication\obj\Debug\netcoreapp3.1\Pomar.Aplication.AssemblyInfoInputs.cache
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Aplication\obj\Debug\netcoreapp3.1\Pomar.Aplication.AssemblyInfo.cs
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Aplication\obj\Debug\netcoreapp3.1\Pomar.Aplication.RazorTargetAssemblyInfo.cache
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Aplication\obj\Debug\netcoreapp3.1\staticwebassets\Pomar.Aplication.StaticWebAssets.Manifest.cache
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Aplication\obj\Debug\netcoreapp3.1\staticwebassets\Pomar.Aplication.StaticWebAssets.xml

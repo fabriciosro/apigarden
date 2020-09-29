@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Garden.Domain\Garden.Domain.csproj" />
+    <ProjectReference Include="..\Garden.Infra\Shared\Garden.Infra.Shared.csproj" />
+    <ProjectReference Include="..\Garden.Domain\Garden.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

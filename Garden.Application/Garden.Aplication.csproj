@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>e36c13fd-853b-4b66-9614-71e9d9f197cf</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.8" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Kubernetes.Tools.Targets" Version="1.1.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Garden.Domain\Garden.Domain.csproj" />
+    <ProjectReference Include="..\Garden.Infra\CrossCutting\Garden.Infra.CrossCutting.csproj" />
+    <!--<ProjectReference Include="..\Pomar.Infra.CrossCutting\Garden.Infra.CrossCutting.csproj" />
+    <ProjectReference Include="..\Pomar.Infra.Data\Garden.Infra.Data.csproj" />
+    <ProjectReference Include="..\Pomar.Service\Garden.Service.csproj" />-->
+  </ItemGroup>
+
+
+</Project>

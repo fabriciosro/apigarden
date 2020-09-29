@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7FqWdrbG2lk3WNrHbRwRgfoqOP2YMxV528hZz4arTQd9GrVvMk41vYgsYbwmUTXHHhU3ooCZlZ/k+foK4lFadA==",
+  "success": true,
+  "projectFilePath": "C:\\Fabricio\\Projetos\\GardenDapper\\Garden\\Garden.Infra\\Shared\\Garden.Infra.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabri\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

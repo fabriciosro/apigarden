@@ -1,0 +1,5 @@
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Domain\bin\Debug\netcoreapp3.1\Pomar.Domain.deps.json
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Domain\bin\Debug\netcoreapp3.1\Pomar.Domain.dll
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Domain\obj\Debug\netcoreapp3.1\Pomar.Domain.AssemblyInfoInputs.cache
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Domain\obj\Debug\netcoreapp3.1\Pomar.Domain.AssemblyInfo.cs
+C:\Users\fabricio.rosa\Documents\Pessoal\Projetos\ProjPomar\Pomar\Pomar.Domain\obj\Debug\netcoreapp3.1\Pomar.Domain.csprojAssemblyReference.cache
