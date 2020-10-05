@@ -1,6 +1,6 @@
-Api modelada usando os príncipios do DDD
+Api modeled using DDD principles
 
-- Web API em .Net Core 3.1 com Dapper
+- .Net Core 3.1 Web API with Dapper
     - swagger
     - flunt
     - Framework Dapper Contrib
