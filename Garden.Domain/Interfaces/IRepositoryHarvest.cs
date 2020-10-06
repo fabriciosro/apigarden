@@ -10,7 +10,7 @@ namespace Garden.Domain.Interfaces
     {
         IList<Harvest> GetAll();
         Task<IEnumerable<Harvest>> GetAllAsync();
-        Harvest GetById(int id);
+        Task<Harvest> GetByIdAsync(int id);
         void Save(Harvest obj);
         void Remove(Harvest obj);
     }

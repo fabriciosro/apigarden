@@ -26,23 +26,29 @@ namespace Garden.Service.Services
             return harvests.ConvertToHarvests();
         }
 
-        public async Task<IEnumerable<HarvestModel>> GetAllAsync()
+        public async Task<IEnumerable<HarvestModel>> RecoverAllAsync()
         {
             var harvests = await _repositoryHarvest.GetAllAsync();
 
             return harvests.Select(x => x).ToList().ConvertToHarvests();
         }
 
-        public HarvestModel RecoverById(int id)
+        public async Task<HarvestModel> RecoverByIdAsync(int id)
         {
-            var harvest = _repositoryHarvest.GetById(id);
-            return harvest.ConvertToHarvest();
+            var harvest = await _repositoryHarvest.GetByIdAsync(id);
+
+            if (harvest != null)
+                return harvest.ConvertToHarvest();
+            else 
+                return null;
         }
 
         public void Delete(int id)
         {
-            var harvest = _repositoryHarvest.GetById(id);
-            _repositoryHarvest.Remove(harvest);
+            var harvest = _repositoryHarvest.GetByIdAsync(id);
+
+            if (harvest.Result != null)
+                _repositoryHarvest.Remove(harvest.Result);            
         }
 
         public HarvestModel Insert(CreateHarvestModel harvestModel)

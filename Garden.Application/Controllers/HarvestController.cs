@@ -65,7 +65,7 @@ namespace Garden.Aplication.Controllers
         {
             try
             {
-                var harvests = await _serviceHarvest.GetAllAsync();
+                var harvests = await _serviceHarvest.RecoverAllAsync();
 
                 return Ok(harvests);
             }
@@ -76,11 +76,11 @@ namespace Garden.Aplication.Controllers
         }
 
         [HttpGet("{id}")]
-        public IActionResult Recover([FromRoute] int id)
+        public async Task<IActionResult> Recover([FromRoute] int id)
         {
             try
             {
-                var harvest = _serviceHarvest.RecoverById(id);
+                var harvest = await _serviceHarvest.RecoverByIdAsync(id);
                 return Ok(harvest);
             }
             catch (Exception ex)

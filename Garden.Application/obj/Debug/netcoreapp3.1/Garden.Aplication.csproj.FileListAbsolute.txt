@@ -394,3 +394,4 @@ C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\obj\Debug\netcoreapp
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\obj\Debug\netcoreapp3.1\Garden.Aplication.dll
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\obj\Debug\netcoreapp3.1\Garden.Aplication.pdb
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\obj\Debug\netcoreapp3.1\Garden.Aplication.genruntimeconfig.cache
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\apigarden - Web Deploy\profile.arm.json

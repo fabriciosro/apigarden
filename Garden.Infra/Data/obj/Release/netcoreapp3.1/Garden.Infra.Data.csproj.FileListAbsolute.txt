@@ -1,0 +1,12 @@
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\Data\bin\Release\netcoreapp3.1\Garden.Infra.Data.deps.json
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\Data\bin\Release\netcoreapp3.1\Garden.Infra.Data.dll
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\Data\bin\Release\netcoreapp3.1\Garden.Infra.Data.pdb
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\Data\bin\Release\netcoreapp3.1\Garden.Domain.dll
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\Data\bin\Release\netcoreapp3.1\Garden.Domain.pdb
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\Data\obj\Release\netcoreapp3.1\Garden.Infra.Data.csprojAssemblyReference.cache
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\Data\obj\Release\netcoreapp3.1\Garden.Infra.Data.AssemblyInfoInputs.cache
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\Data\obj\Release\netcoreapp3.1\Garden.Infra.Data.AssemblyInfo.cs
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\Data\obj\Release\netcoreapp3.1\Garden.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\Data\obj\Release\netcoreapp3.1\Garden.Infra.Data.csproj.CopyComplete
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\Data\obj\Release\netcoreapp3.1\Garden.Infra.Data.dll
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\Data\obj\Release\netcoreapp3.1\Garden.Infra.Data.pdb

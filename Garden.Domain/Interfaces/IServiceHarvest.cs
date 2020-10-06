@@ -9,8 +9,8 @@ namespace Garden.Domain.Interfaces
         HarvestModel Insert(CreateHarvestModel harvestModel);
         HarvestModel Update(int id, UpdateHarvestModel harvestModel);
         void Delete(int id);
-        HarvestModel RecoverById(int id);
+        Task<HarvestModel> RecoverByIdAsync(int id);
         IEnumerable<HarvestModel> RecoverAll();
-        Task<IEnumerable<HarvestModel>> GetAllAsync();
+        Task<IEnumerable<HarvestModel>> RecoverAllAsync();
     }
 }

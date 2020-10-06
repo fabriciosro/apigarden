@@ -40,10 +40,16 @@ namespace Garden.Infra.Shared.Mapper
 
         public static HarvestModel ConvertToHarvest(this Harvest harvest) =>
             new HarvestModel(
-                harvest.Id, 
-                harvest.Information.ToString(), 
-                harvest.HarvestDate, 
-                harvest.GrossWeight, 
-                harvest.TreeId);
+                    harvest.Id,
+                    harvest.Information.ToString(),
+                    harvest.HarvestDate,
+                    harvest.GrossWeight,
+                    harvest.TreeId,
+                    new TreeModel(
+                        harvest.Tree.Id,
+                        harvest.Tree.Information.ToString(),
+                        harvest.Tree.TreeAge,
+                        null
+                    ));
     }
 }
