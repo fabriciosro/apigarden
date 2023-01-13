@@ -262,9 +262,14 @@ C:\Fabricio\Projetos\GardenPrj\gardenApp\Pomar\Pomar.Aplication\obj\Debug\netcor
 C:\Fabricio\Projetos\GardenPrj\gardenApp\Pomar\Pomar.Aplication\obj\Debug\netcoreapp3.1\Garden.Aplication.dll
 C:\Fabricio\Projetos\GardenPrj\gardenApp\Pomar\Pomar.Aplication\obj\Debug\netcoreapp3.1\Garden.Aplication.pdb
 C:\Fabricio\Projetos\GardenPrj\gardenApp\Pomar\Pomar.Aplication\obj\Debug\netcoreapp3.1\Garden.Aplication.genruntimeconfig.cache
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\obj\Debug\netcoreapp3.1\Garden.Aplication.csproj.AssemblyReference.cache
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\obj\Debug\netcoreapp3.1\Garden.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\obj\Debug\netcoreapp3.1\Garden.Aplication.AssemblyInfoInputs.cache
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\obj\Debug\netcoreapp3.1\Garden.Aplication.AssemblyInfo.cs
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\obj\Debug\netcoreapp3.1\Garden.Aplication.csproj.CoreCompileInputs.cache
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\obj\Debug\netcoreapp3.1\Garden.Aplication.MvcApplicationPartsAssemblyInfo.cache
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\bin\Debug\netcoreapp3.1\Garden.Aplication.exe
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\bin\Debug\netcoreapp3.1\Garden.Aplication.deps.json
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\bin\Debug\netcoreapp3.1\Garden.Aplication.runtimeconfig.json
@@ -319,6 +324,7 @@ C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\bin\Debug\netcoreapp
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
@@ -381,17 +387,10 @@ C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\bin\Debug\netcoreapp
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\bin\Debug\netcoreapp3.1\Garden.Infra.Data.pdb
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\bin\Debug\netcoreapp3.1\Garden.Infra.Shared.pdb
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\bin\Debug\netcoreapp3.1\Garden.Service.pdb
-C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\obj\Debug\netcoreapp3.1\Garden.Aplication.csprojAssemblyReference.cache
-C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\obj\Debug\netcoreapp3.1\Garden.Aplication.AssemblyInfoInputs.cache
-C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\obj\Debug\netcoreapp3.1\Garden.Aplication.AssemblyInfo.cs
-C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\obj\Debug\netcoreapp3.1\Garden.Aplication.csproj.CoreCompileInputs.cache
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\obj\Debug\netcoreapp3.1\Garden.Aplication.MvcApplicationPartsAssemblyInfo.cs
-C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\obj\Debug\netcoreapp3.1\Garden.Aplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\obj\Debug\netcoreapp3.1\staticwebassets\Garden.Aplication.StaticWebAssets.Manifest.cache
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\obj\Debug\netcoreapp3.1\Garden.Aplication.RazorTargetAssemblyInfo.cache
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\obj\Debug\netcoreapp3.1\Garden.Aplication.csproj.CopyComplete
-C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\obj\Debug\netcoreapp3.1\staticwebassets\Garden.Aplication.StaticWebAssets.Manifest.cache
-C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\obj\Debug\netcoreapp3.1\staticwebassets\Garden.Aplication.StaticWebAssets.xml
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\obj\Debug\netcoreapp3.1\Garden.Aplication.dll
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\obj\Debug\netcoreapp3.1\Garden.Aplication.pdb
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\obj\Debug\netcoreapp3.1\Garden.Aplication.genruntimeconfig.cache
-C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Application\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\apigarden - Web Deploy\profile.arm.json

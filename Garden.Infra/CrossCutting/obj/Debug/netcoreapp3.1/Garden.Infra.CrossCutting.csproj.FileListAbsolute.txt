@@ -34,6 +34,11 @@ C:\Fabricio\Projetos\GardenPrj\gardenApp\Pomar\Pomar.Infra.CrossCutting\obj\Debu
 C:\Fabricio\Projetos\GardenPrj\gardenApp\Pomar\Pomar.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Garden.Infra.CrossCutting.csproj.CopyComplete
 C:\Fabricio\Projetos\GardenPrj\gardenApp\Pomar\Pomar.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Garden.Infra.CrossCutting.dll
 C:\Fabricio\Projetos\GardenPrj\gardenApp\Pomar\Pomar.Infra.CrossCutting\obj\Debug\netcoreapp3.1\Garden.Infra.CrossCutting.pdb
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\CrossCutting\obj\Debug\netcoreapp3.1\Garden.Infra.CrossCutting.csproj.AssemblyReference.cache
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\CrossCutting\obj\Debug\netcoreapp3.1\Garden.Infra.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\CrossCutting\obj\Debug\netcoreapp3.1\Garden.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\CrossCutting\obj\Debug\netcoreapp3.1\Garden.Infra.CrossCutting.AssemblyInfo.cs
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\CrossCutting\obj\Debug\netcoreapp3.1\Garden.Infra.CrossCutting.csproj.CoreCompileInputs.cache
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\CrossCutting\bin\Debug\netcoreapp3.1\Garden.Infra.CrossCutting.deps.json
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\CrossCutting\bin\Debug\netcoreapp3.1\Garden.Infra.CrossCutting.dll
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\CrossCutting\bin\Debug\netcoreapp3.1\Garden.Infra.CrossCutting.pdb
@@ -45,10 +50,6 @@ C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\CrossCutting\bin\Debug\net
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\CrossCutting\bin\Debug\netcoreapp3.1\Garden.Infra.Data.pdb
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\CrossCutting\bin\Debug\netcoreapp3.1\Garden.Infra.Shared.pdb
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\CrossCutting\bin\Debug\netcoreapp3.1\Garden.Domain.pdb
-C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\CrossCutting\obj\Debug\netcoreapp3.1\Garden.Infra.CrossCutting.csprojAssemblyReference.cache
-C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\CrossCutting\obj\Debug\netcoreapp3.1\Garden.Infra.CrossCutting.AssemblyInfoInputs.cache
-C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\CrossCutting\obj\Debug\netcoreapp3.1\Garden.Infra.CrossCutting.AssemblyInfo.cs
-C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\CrossCutting\obj\Debug\netcoreapp3.1\Garden.Infra.CrossCutting.csproj.CoreCompileInputs.cache
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\CrossCutting\obj\Debug\netcoreapp3.1\Garden.Infra.CrossCutting.csproj.CopyComplete
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\CrossCutting\obj\Debug\netcoreapp3.1\Garden.Infra.CrossCutting.dll
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Infra\CrossCutting\obj\Debug\netcoreapp3.1\Garden.Infra.CrossCutting.pdb

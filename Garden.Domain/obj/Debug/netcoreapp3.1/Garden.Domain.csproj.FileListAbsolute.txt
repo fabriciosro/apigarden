@@ -19,9 +19,10 @@ C:\Fabricio\Projetos\GardenPrj\gardenApp\Pomar\Pomar.Domain\obj\Debug\netcoreapp
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Domain\bin\Debug\netcoreapp3.1\Garden.Domain.deps.json
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Domain\bin\Debug\netcoreapp3.1\Garden.Domain.dll
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Domain\bin\Debug\netcoreapp3.1\Garden.Domain.pdb
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Domain\obj\Debug\netcoreapp3.1\Garden.Domain.csproj.AssemblyReference.cache
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Domain\obj\Debug\netcoreapp3.1\Garden.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Domain\obj\Debug\netcoreapp3.1\Garden.Domain.AssemblyInfoInputs.cache
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Domain\obj\Debug\netcoreapp3.1\Garden.Domain.AssemblyInfo.cs
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Domain\obj\Debug\netcoreapp3.1\Garden.Domain.csproj.CoreCompileInputs.cache
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Domain\obj\Debug\netcoreapp3.1\Garden.Domain.dll
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Domain\obj\Debug\netcoreapp3.1\Garden.Domain.pdb
-C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Domain\obj\Debug\netcoreapp3.1\Garden.Domain.csprojAssemblyReference.cache

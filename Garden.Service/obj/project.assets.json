@@ -95,6 +95,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
             "C:\\Fabricio\\Projetos\\GardenDapper\\Garden\\Garden.Domain\\Garden.Domain.csproj": {
               "projectPath": "C:\\Fabricio\\Projetos\\GardenDapper\\Garden\\Garden.Domain\\Garden.Domain.csproj"
@@ -113,6 +114,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -128,7 +130,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -33,7 +33,8 @@ C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Service\bin\Debug\netcoreapp3.1\
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Service\bin\Debug\netcoreapp3.1\Garden.Infra.Shared.dll
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Service\bin\Debug\netcoreapp3.1\Garden.Domain.pdb
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Service\bin\Debug\netcoreapp3.1\Garden.Infra.Shared.pdb
-C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Service\obj\Debug\netcoreapp3.1\Garden.Service.csprojAssemblyReference.cache
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Service\obj\Debug\netcoreapp3.1\Garden.Service.csproj.AssemblyReference.cache
+C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Service\obj\Debug\netcoreapp3.1\Garden.Service.GeneratedMSBuildEditorConfig.editorconfig
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Service\obj\Debug\netcoreapp3.1\Garden.Service.AssemblyInfoInputs.cache
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Service\obj\Debug\netcoreapp3.1\Garden.Service.AssemblyInfo.cs
 C:\Fabricio\Projetos\GardenDapper\Garden\Garden.Service\obj\Debug\netcoreapp3.1\Garden.Service.csproj.CoreCompileInputs.cache
